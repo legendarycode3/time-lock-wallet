@@ -32,17 +32,19 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy contract
 
-### ### How It Works
+### How It Works
 * ****Lock:**** The sender deposits tokens or funds into the smart contract.
 * ****Specify:**** A strict unlocking condition is set (either a specific timestamp, or a block number).
 * ****Release:****  The funds remain locked and untouched until the condition is met. Once the time expires, the designated beneficiary can withdraw the assets.
 
 ## Why This Matters (Time Lock Smart Contract)
 
-### Key Use Cases of Time Lock Smart Contracts
+## Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****  Prevents founders or investors from selling their allocated tokens immediately by locking them for days, months or years.
 * ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you from impulsive trading decisions.
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
+
+## Core Benefits
 
 ## Foundry
 
