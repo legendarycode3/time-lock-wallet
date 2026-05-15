@@ -33,7 +33,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 2. ****Deployment:**** Deploy contract
 3. ****Deposit:**** Use a `low level interaction` depositing format which is being used on remix to send Eth to the address.
 4. ****getBalance:**** You can check the balance of your wallet as an authorized owner  and it will display your current balance after funding.
-5. ****withdraw:****  
+5. ****withdraw:****  Withdrawal can be down after the time lock duration has elipsed . Then it will be possible to withdraw the funds.
 
 ### How It Works
 * ****Lock:**** The sender deposits tokens or funds into the smart contract.
