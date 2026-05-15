@@ -30,7 +30,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ## Usage Guide (How to use - When using Remix IDE) 
 ### How It Works
-1. ****Compile:**** 
+1. ****Compile:**** Compile the contract.
 
 ## Why This Matters (Time Lock Smart Contract)
 
