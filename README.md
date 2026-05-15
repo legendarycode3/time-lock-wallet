@@ -41,7 +41,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 Time-lock smart contracts are vital in Web3 because they introduce `predictable delays and automated waiting periods` to the blockchain. Because smart contracts run on exact code, time locks  to the blockchain. Because smart contracts run on exact code, time locks enforce discipline, prevent immediate admin abuse, and create trustless safety windows. </br>
 They matter immensely in Web3 blockchain systems for several reasons:
 1. ****Prevents Impulsive Selling:****  Acts as a forced "hodl" or time-locked wallet. By locking your tokens for a set period, it removes the temptation to panic-sell during market crashes.
-2. ****Automated Trustless Escrow:**** Replaces the need for a third party (like a lawyer or
+2. ****Automated Trustless Escrow:**** Replaces the need for a third party (like a lawyer or bank) in agreements. Funds are only released when the predetermined time lock or
 3. ****Wills and Inheritance:****
 
 ## Key Use Cases of Time Lock Smart Contracts
