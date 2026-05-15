@@ -5,7 +5,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 ##  Features
 
 ##  Key Concepts Applied
-* ****Modifier:****
+* ****Modifier:****  Access-Control for `onlyOwner of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
 
 ##  Project Structure (Files)
 
