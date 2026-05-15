@@ -39,7 +39,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ## Why This Matters (Time Lock Smart Contract)
 
-### Key Use Cases of Whitelist Smart Contracts
+### Key Use Cases of Time Lock Smart Contracts
 
 ## Foundry
 
