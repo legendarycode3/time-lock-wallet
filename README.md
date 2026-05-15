@@ -31,7 +31,8 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 ## Usage Guide (How to use - When using Remix IDE) 
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy contract
-3. ****Deposit:**** Use a `low level interaction` depositing format which is being used on remix to send Eth to the address/
+3. ****Deposit:**** Use a `low level interaction` depositing format which is being used on remix to send Eth to the address.
+4. ****getBalance:****
 
 ### How It Works
 * ****Lock:**** The sender deposits tokens or funds into the smart contract.
