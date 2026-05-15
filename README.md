@@ -41,7 +41,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ### Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****
-* ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you
+* ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you from impulsive trading decisions.
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 
 ## Foundry
