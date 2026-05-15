@@ -44,6 +44,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 2. ****Automated Trustless Escrow:**** Replaces the need for a third party (like a lawyer or bank) in agreements. Funds are only released when the predetermined time lock or set of conditions is met.
 3. ****Wills and Inheritance:**** Can be used as a "smart will". You can lock your crypto and set a release date for a family member or heir, completely bypassing the traditional probate court process.
 4. ****Safe Protocol Upgrades:**** In Web3, smart contract upgrades can be risky. Timelocks introduce a mandatory waiting period for administrative operations. This gives developers a safety window to detect anomalies and roll back changes if necessary before they cause harm.
+5. ****Community Reaction Time:****
 
 ## Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****  Prevents founders or investors from selling their allocated tokens immediately by locking them for days, months or years.
