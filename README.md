@@ -1,5 +1,5 @@
 ## Project Overview
-A time lock smart contract is a secure vault for your digital assets that restricts
+A time lock smart contract is a secure vault for your digital assets that restricts withdrawals until a specific future date or block number.
 
 ##  Features
 
