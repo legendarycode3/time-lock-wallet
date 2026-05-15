@@ -38,7 +38,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Release:****  The funds remain locked and untouched until the condition is met. Once the time expires, the designated beneficiary can withdraw the assets.
 
 ## Why This Matters (Time Lock Smart Contract)
-Time-lock smart contracts are vital in Web3 because they introduce `predictable delays and automated waiting periods` to the
+Time-lock smart contracts are vital in Web3 because they introduce `predictable delays and automated waiting periods` to the blockchain. Because smart contracts run on exact code, time locks
 
 ## Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****  Prevents founders or investors from selling their allocated tokens immediately by locking them for days, months or years.
