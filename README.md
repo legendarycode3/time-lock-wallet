@@ -42,6 +42,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 ### Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****
 * ****Long-term Savings (HODLing):****
+* ****Delayed Execution:****
 
 ## Foundry
 
