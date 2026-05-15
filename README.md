@@ -21,8 +21,10 @@
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 
-## 📋Contract Details
+## Contract Details
 ### Functions:
+
+### Variables:
 
 ## Foundry
 
