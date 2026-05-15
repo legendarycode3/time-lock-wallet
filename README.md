@@ -28,7 +28,8 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ### Variables:
 
-## Usage Guide (How to use - When using Remix IDE)
+## Usage Guide (How to use - When using Remix IDE) 
+### How It Works
 
 ## Why This Matters (Time Lock Smart Contract)
 
