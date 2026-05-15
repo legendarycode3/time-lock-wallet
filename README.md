@@ -42,6 +42,7 @@ Time-lock smart contracts are vital in Web3 because they introduce `predictable 
 They matter immensely in Web3 blockchain systems for several reasons:
 1. ****Prevents Impulsive Selling:****
 2. ****Automated Trustless Escrow:****
+3. ****Wills and Inheritance:****
 
 ## Key Use Cases of Time Lock Smart Contracts
 * ****Vesting & Team Tokens:****  Prevents founders or investors from selling their allocated tokens immediately by locking them for days, months or years.
