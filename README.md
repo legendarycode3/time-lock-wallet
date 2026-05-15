@@ -34,7 +34,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ### ### How It Works
 * ****Lock:**** The sender deposits tokens or funds into the smart contract.
-* ****Specify:****
+* ****Specify:**** A strict unlocking condition is set (either a specific
 * ****Release:****
 
 ## Why This Matters (Time Lock Smart Contract)
