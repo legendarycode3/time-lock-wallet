@@ -46,7 +46,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ## Core Benefits
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
-* ****Immutability:****
+* ****Immutability:**** Once the rules are deployed to the blockchain, they cannot be altered
 
 ## Foundry
 
