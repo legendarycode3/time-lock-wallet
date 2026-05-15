@@ -28,7 +28,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ### Variables:
 
-## Usage Guide (How to use - When using Remix IDE) 
+## Usage Guide (How to use - When using Remix IDE by interacting with the deployed contract) 
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy contract
 3. ****Deposit:**** Use a `low level interaction` depositing format which is being used on remix to send Eth to the address.
