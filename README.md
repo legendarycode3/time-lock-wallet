@@ -45,7 +45,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 
 ## Core Benefits
-* ****Trustless Security:**** Operates entirely on code without relying on a third-party
+* ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
 
 ## Foundry
 
