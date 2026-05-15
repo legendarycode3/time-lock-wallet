@@ -33,7 +33,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 2. ****Deployment:**** Deploy contract
 
 ### ### How It Works
-* ****Lock:****
+* ****Lock:**** The sender deposits tokens or funds into the smart contract.
 
 ## Why This Matters (Time Lock Smart Contract)
 
