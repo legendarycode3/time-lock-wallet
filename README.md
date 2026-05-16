@@ -80,6 +80,7 @@ Runing specific test:
 ## Contract Details
 ### Functions:
 * ****`constructor()`****: Function that sets the owner of the contract.
+* ****`receive()`****:
 
 ### Variables:
 
