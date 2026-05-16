@@ -7,7 +7,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Deposit Event Logging:**** Emits a `Deposit` event whenever ETH is sent to the contract.
 * ****Withdrawal Event Logging:**** Emits a `Withdraw` event after successful withdrawal.
 * ****Reentrancy Protection:**** Implements a custom reentrancy guard using a `locked` boolean. Prevents malicious recursive withdrawal attacks.
-* ****Custom Errors (Gas Efficient):****
+* ****Custom Errors (Gas Efficient):**** Uses Solidity custom errors instead of revert strings.
 
 ##  Key Concepts Applied
 * ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
