@@ -12,7 +12,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****TimeLockWallet.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
-* ****[Solidity](https://www.soliditylang.org/)**** -
+* ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
 * ****[Remix IDE](https://remix.ethereum.org/)**** -
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  -
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - 
