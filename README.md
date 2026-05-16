@@ -20,7 +20,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 * ****Immutable Variables:**** Values assigned once in the constructor and cannot be changed afterward.
 * ****Constructor:**** Runs once during deployment to initialize the contract.
 * ****Custom Errors:**** Gas-efficient error handling.
-* ****Access Modifiers:****
+* ****Access Modifiers:**** Controls visibility of variables and functions.
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
