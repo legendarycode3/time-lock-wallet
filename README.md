@@ -21,7 +21,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 * ****Constructor:**** Runs once during deployment to initialize the contract.
 * ****Custom Errors:**** Gas-efficient error handling.
 * ****Access Modifiers:**** Controls visibility of variables and functions.
-* ****Events:****
+* ****Events:**** Used for logging blockchain activity.
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
