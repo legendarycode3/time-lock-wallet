@@ -6,6 +6,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Ether Deposit Support:**** The contract can receive ETH directly through the `receive()` function.
 * ****Deposit Event Logging:**** Emits a `Deposit` event whenever ETH is sent to the contract.
 * ****Withdrawal Event Logging:**** Emits a `Withdraw` event after successful withdrawal.
+* ****Reentrancy Protection:****
 
 ##  Key Concepts Applied
 * ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
