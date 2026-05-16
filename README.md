@@ -85,7 +85,8 @@ Runing specific test:
 * ****`withdraw()`****: Function that allows withdrawal to be done after the funds is unlocked. Just for authorized identity.
 
 ### Variables:
-* ****`i_owner:`****:
+* ****`i_owner`****:
+* ****`locked`****:
 
 ## Usage Guide (How to use - When using Remix IDE by interacting with the deployed contract) 
 1. ****Compile:**** Compile the contract.
