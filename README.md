@@ -8,7 +8,8 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Modifier:****  Access-Control for `onlyOwner of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
 
 ##  Project Structure (Files)
-* ****TimeLockWallet.sol`****: 
+* ****TimeLockWallet.sol`****:
+* ****TimeLockWallet.t.sol`****: 
 
 ## Technology Stack (Technologies Used)
 
