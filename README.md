@@ -80,7 +80,7 @@ Runing specific test:
 ## Contract Details
 ### Functions:
 * ****`constructor()`****: Function that sets the owner of the contract.
-* ****`receive()`****:
+* ****`receive()`****: Function that Accept Ether directly. 
 * ****`getBalance()`****: Function that allows the contract owner to see the balance left.
 * ****`withdraw()`****: Function that allows withdrawal to be done after the funds is unlocked.
 
