@@ -48,6 +48,8 @@ A time lock smart contract is a secure vault for your digital assets that restri
 
 ### Recommendation (For Beginners)
 
+****NOTE (Use Remix IDE, for quick prototyping):****
+
 ## Usage 
 
 ### Building the Project (Using Remix IDE):
