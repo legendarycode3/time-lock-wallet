@@ -82,6 +82,7 @@ Runing specific test:
 * ****`constructor()`****: Function that sets the owner of the contract.
 * ****`receive()`****:
 * ****`getBalance()`****:
+* ****`withdraw()`****:
 
 ### Variables:
 
