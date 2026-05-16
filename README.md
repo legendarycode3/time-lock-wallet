@@ -5,7 +5,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 ##  Features
 
 ##  Key Concepts Applied
-* ****Modifier:****  Access-Control for `onlyOwner of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
+* ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
@@ -13,7 +13,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ## Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
-* ****[Remix IDE](https://remix.ethereum.org/)**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as 
+* ****[Remix IDE](https://remix.ethereum.org/)**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  -
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - 
 
