@@ -44,7 +44,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
-* * `Remix IDE` or `Foundry Development Kit`
+* `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation (For Beginners)
 
