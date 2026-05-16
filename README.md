@@ -3,6 +3,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 It acts as an automated, tamper-proof safeguard, ensuring funds cannot be accessed early, which is ideal for long-term holding, vesting schedules, or executing delayed transaction.
 
 ##  Features
+* ****Ether Deposit Support:****
 
 ##  Key Concepts Applied
 * ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
