@@ -65,6 +65,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
       cd student-registry-smart-contract
     ```
 3.   Compile the smart contract:
+   `forge build`
 
 ## Contract Details
 ### Functions:
