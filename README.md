@@ -9,7 +9,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
-* ****TimeLockWallet.t.sol`****: 
+* ****TimeLockWallet.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
 
