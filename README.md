@@ -85,7 +85,7 @@ Runing specific test:
 * ****`withdraw()`****: Function that allows withdrawal to be done after the funds is unlocked. Just for authorized identity.
 
 ### Variables:
-* ****`i_owner`****:
+* ****`i_owner`****: Stores the address of the contract deployer
 * ****`locked`****: 
 * ****`i_unlockTime`****: Stores  the time at which the funds can be withdrawn using unix timestamp.
 
