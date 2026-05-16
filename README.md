@@ -69,6 +69,9 @@ A time lock smart contract is a secure vault for your digital assets that restri
 
 ### Testing the contract (Using Foundry Development Kit ) 
 Runing all tests:
+  ```shell
+    forge test
+  ```
 
 ## Contract Details
 ### Functions:
