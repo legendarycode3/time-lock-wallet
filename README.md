@@ -25,6 +25,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 * ****Indexed Event Parameters:**** Makes event data searchable in logs.
 * ****Address Type:**** Represents Ethereum wallet or contract addresses.
 * ****Low-Level Call:**** Used to send Ether safely.
+* ****Function Visibility:****
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
