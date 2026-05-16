@@ -86,7 +86,7 @@ Runing specific test:
 
 ### Variables:
 * ****`i_owner`****: Stores the address of the contract deployer
-* ****`locked`****: 
+* ****`locked`****: Variable that prevents reentrancy guard to prevent reentrancy attacks on the withdrawal function.
 * ****`i_unlockTime`****: Stores  the time at which the funds can be withdrawn using unix timestamp.
 
 ## Usage Guide (How to use - When using Remix IDE by interacting with the deployed contract) 
