@@ -81,7 +81,7 @@ Runing specific test:
 ### Functions:
 * ****`constructor()`****: Function that sets the owner of the contract.
 * ****`receive()`****:
-* ****`getBalance()`****:
+* ****`getBalance()`****: Function that allows the contract owner to see the balance left.
 * ****`withdraw()`****: Function that allows withdrawal to be done after the funds is unlocked.
 
 ### Variables:
