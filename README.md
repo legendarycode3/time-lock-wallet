@@ -79,6 +79,7 @@ Runing specific test:
 
 ## Contract Details
 ### Functions:
+* ****`constructor()`****:
 
 ### Variables:
 
