@@ -11,6 +11,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****Balance Checker Function:**** Users can check the contract’s ETH balance.
 * ****Low-Level Call for ETH Transfer:**** Uses `.call{value: amount}("")` for transferring ETH.
 * ****Validation for Lock Time:**** Prevents deployment with a zero lock duration.
+* ****Immutable Variables:****
 
 ##  Key Concepts Applied
 * ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
