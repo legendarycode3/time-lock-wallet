@@ -12,6 +12,7 @@ It acts as an automated, tamper-proof safeguard, ensuring funds cannot be access
 * ****TimeLockWallet.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)**** -
 
 
 ## Getting Started
