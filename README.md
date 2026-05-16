@@ -19,6 +19,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 * ****Modifier:****  Access-Control for `onlyOwner` of the locked contract to only be able to access the details. And also `nonReentrant` modifier, that helps to prevent double funding while a specific funds has already been locked.
 * ****Immutable Variables:**** Values assigned once in the constructor and cannot be changed afterward.
 * ****Constructor:**** Runs once during deployment to initialize the contract.
+* ****Custom Errors:****
 
 ##  Project Structure (Files)
 * ****TimeLockWallet.sol`****: The main contract implementing receivce, getBalance and withdraw functions.
