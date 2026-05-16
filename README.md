@@ -60,6 +60,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
     ```shell
     git clone https://github.com/legendarycode3/student-registry-smart-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 ## Contract Details
 ### Functions:
