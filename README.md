@@ -56,6 +56,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 3.  And then Compile the smart contract file you have created on Remix IDE.
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
+1. Clone the repository:
 
 ## Contract Details
 ### Functions:
