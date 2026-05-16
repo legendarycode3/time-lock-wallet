@@ -57,6 +57,9 @@ A time lock smart contract is a secure vault for your digital assets that restri
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
+    ```shell
+    git clone https://github.com/legendarycode3/student-registry-smart-contract
+   ```
 
 ## Contract Details
 ### Functions:
