@@ -87,6 +87,7 @@ Runing specific test:
 ### Variables:
 * ****`i_owner`****:
 * ****`locked`****:
+* ****`i_unlockTime`****:
 
 ## Usage Guide (How to use - When using Remix IDE by interacting with the deployed contract) 
 1. ****Compile:**** Compile the contract.
