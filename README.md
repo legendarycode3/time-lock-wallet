@@ -89,7 +89,7 @@ Runing specific test:
 * ****`locked`****: Variable that prevents reentrancy guard to prevent reentrancy attacks on the withdrawal function.
 * ****`i_unlockTime`****: Stores  the time at which the funds can be withdrawn using unix timestamp.
 
-## Usage Guide (How to use - When using Remix IDE by interacting with the deployed contract) 
+## Usage Guide (How to works - When using Remix IDE by interacting with the deployed contract) 
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy contract
 3. ****Deposit:**** Use a `low level interaction` depositing format which is being used on remix to send Eth to the address.
