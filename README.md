@@ -122,7 +122,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 ## Core Benefits
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
 * ****Immutability:**** Once the rules are deployed to the blockchain, they cannot be altered or bypassed by anyone, guaranteeing the terms will be met exactly as written.
-* ****Delayed Execution Protection:****
+* ****Delayed Execution Protection:**** Critical actions cannot be performed instantly,
 
 ## Foundry
 
