@@ -130,7 +130,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Emergency Exit Window:**** Provides users with time to respond, withdraw funds, or take protective actions if a harmful proposal is approved.
 * ****Decentralization Support:**** Encourages accountable governance by preventing immediate unilateral control over protocol operations.
 * ****Predictable Change Management:**** Users know when protocol changes are scheduled to occur, improving reliability and planning.
-* ****Modular Security Layer:**** Can be integrated with DAOs, multisig wallets,
+* ****Modular Security Layer:**** Can be integrated with DAOs, multisig wallets, treasury contracts,
 
 
 
