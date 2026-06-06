@@ -128,7 +128,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Increased User Trust:**** Users can verify that protocol upgrades and administrative actions will not occur without prior notice.
 * ****Transparency:**** All queued transactions are visible on-chain before execution, allowing anyone to monitor upcoming protocol actions.
 * ****Emergency Exit Window:**** Provides users with time to respond, withdraw funds, or take protective actions if a harmful proposal is approved.
-* ****Decentralization Support:****
+* ****Decentralization Support:**** Encourages accountable governance
 
 
 
