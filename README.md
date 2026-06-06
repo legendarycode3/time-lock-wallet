@@ -125,7 +125,8 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Delayed Execution Protection:**** Critical actions cannot be performed instantly, giving stakeholders time to review proposed transactions before they take effect.
 * ****Reduced Centralization Risk:**** Prevents administrators from making immediate unilateral changes, encouraging accountability and decentralized oversight.
 * ****Increased User Trust:**** Users can verify that protocol upgrades and administrative actions will not occur without prior notice.
-* ****Transparency:**** All queued transactions are visible on-chain before execution,
+* ****Transparency:**** All queued transactions are visible on-chain before execution, allowing anyone to monitor upcoming protocol actions.
+
 
 
 
