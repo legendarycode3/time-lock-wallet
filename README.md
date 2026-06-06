@@ -1,5 +1,5 @@
 # Time Lock Smart Contract
-A secure timelock smart contract that enforces delayed execution of privileged actions, governance proposals,
+A secure timelock smart contract that enforces delayed execution of privileged actions, governance proposals, and critical protocol operations,
 
  
 ## Project Overview
