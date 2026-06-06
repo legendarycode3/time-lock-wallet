@@ -18,7 +18,7 @@ A time lock smart contract is a secure vault for your digital assets that restri
 * ****Immutable Variables:**** `i_owner` and `i_unlockTime` are declared as `immutable`. Saves gas because values are assigned once in the constructor and never changed.
 * ****Owner-Only Withdrawals:**** Only the deployer of the contract can withdraw funds. Protected using the `onlyOwner` modifier.
 * ****Time-Locked Withdrawals:**** Funds cannot be withdrawn until a specified unlock time. The unlock time is set during deployment using _secondsToLock. Uses Unix timestamps with block.timestamp.
-* ****Decentralization Support:****
+
 
 
 ##  Key Concepts Applied
@@ -128,7 +128,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Increased User Trust:**** Users can verify that protocol upgrades and administrative actions will not occur without prior notice.
 * ****Transparency:**** All queued transactions are visible on-chain before execution, allowing anyone to monitor upcoming protocol actions.
 * ****Emergency Exit Window:**** Provides users with time to respond, withdraw funds, or take protective actions if a harmful proposal is approved.
-
+* ****Decentralization Support:****
 
 
 
