@@ -123,7 +123,8 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
 * ****Immutability:**** Once the rules are deployed to the blockchain, they cannot be altered or bypassed by anyone, guaranteeing the terms will be met exactly as written.
 * ****Delayed Execution Protection:**** Critical actions cannot be performed instantly, giving stakeholders time to review proposed transactions before they take effect.
-* ****Reduced Centralization Risk:**** Prevents administrators from
+* ****Reduced Centralization Risk:**** Prevents administrators from making immediate unilateral changes,
+
 
 
 ## Foundry
