@@ -1,5 +1,5 @@
 # Time Lock Smart Contract
-A secure timelock smart contract
+A secure timelock smart contract that enforces delayed execution of privileged actions,
 
 ## Project Overview
 A time lock smart contract is a secure vault for your digital assets that restricts withdrawals until a specific future date or block number. </br>
