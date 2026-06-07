@@ -121,6 +121,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 * ****Token Vesting:****
 * ****Investor Lockups:****
+* ****DAO Governance Timelocks:****
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
