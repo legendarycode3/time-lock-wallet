@@ -135,6 +135,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Grants and Scholarship Distribution:**** Educational institutions, foundations, and organizations can schedule the release of funds in phases based on time periods or achievement of predefined milestones.
 * ****Regulatory and Compliance Requirements:**** Time-lock contracts
 * ****Subscription and Membership Services:****
+* ****Supply Chain and Trade Finance:****
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
