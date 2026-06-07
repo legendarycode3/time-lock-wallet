@@ -119,7 +119,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Vesting & Team Tokens:****  Prevents founders or investors from selling their allocated tokens immediately by locking them for days, months or years.
 * ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you from impulsive trading decisions.
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
-* ****Token Vesting:**** Time-lock contracts are used to release tokens gradually to founders, team members, and advisors over a predefined period.
+* ****Token Vesting:**** Time-lock contracts are used to release tokens gradually to founders, team members, and advisors over a predefined period. This prevents immediate selling
 * ****Investor Lockups:****
 * ****DAO Governance Timelocks:****
 
