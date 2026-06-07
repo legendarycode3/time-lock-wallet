@@ -126,7 +126,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Escrow Services:**** Funds can be locked until a specific date or condition is met. Once the agreed conditions are satisfied, the contract automatically releases the funds without requiring a trusted intermediary.
 * ****Decentralized Savings Plans:**** Users can lock cryptocurrency for a fixed duration to encourage long-term saving. Funds remain inaccessible until the lock period expires.
 * ****Inheritance and Estate Planning:**** Digital assets can be programmed to transfer to designated beneficiaries after a certain period or event, enabling automated inheritance management.
-* ****Scheduled Payments and Payroll:****
+* ****Scheduled Payments and Payroll:**** Businesses can use time-lock
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
