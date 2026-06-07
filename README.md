@@ -124,7 +124,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****DAO Governance Timelocks:**** Decentralized organizations use timelocks to delay the execution of approved governance proposals. This gives community members time to review decisions and respond to potentially harmful changes.
 * ****Treasury Management:**** Organizations and DAOs lock treasury funds so that withdrawals or expenditures can only occur after a specified waiting period. This improves transparency and reduces the risk of misuse.
 * ****Escrow Services:**** Funds can be locked until a specific date or condition is met. Once the agreed conditions are satisfied, the contract automatically releases the funds without requiring a trusted intermediary.
-* ****Decentralized Savings Plans:**** Users can lock cryptocurrency for a fixed duration to encourage long-term saving.
+* ****Decentralized Savings Plans:**** Users can lock cryptocurrency for a fixed duration to encourage long-term saving. Funds remain inaccessible
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
