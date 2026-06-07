@@ -134,7 +134,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Liquidity Locking:**** Blockchain projects often lock liquidity pool tokens for a fixed period to demonstrate commitment and reduce concerns about liquidity withdrawal or "rug pulls."
 * ****Grants and Scholarship Distribution:**** Educational institutions, foundations, and organizations can schedule the release of funds in phases based on time periods or achievement of predefined milestones.
 * ****Regulatory and Compliance Requirements:**** Time-lock contracts can enforce mandatory holding periods required by legal, regulatory, or contractual agreements, ensuring compliance through automated execution. 
-* ****Subscription and Membership Services:**** Access payments can be locked
+* ****Subscription and Membership Services:**** Access payments can be locked and released periodically, enabling automated subscription management
 * ****Supply Chain and Trade Finance:****
 
 ## Core Benefits Time Lock Smart Contracts
