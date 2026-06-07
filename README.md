@@ -120,6 +120,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you from impulsive trading decisions.
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 * ****Token Vesting:****
+* ****Investor Lockups:****
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
