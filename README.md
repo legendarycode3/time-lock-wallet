@@ -136,7 +136,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Regulatory and Compliance Requirements:**** Time-lock contracts can enforce mandatory holding periods required by legal, regulatory, or contractual agreements, ensuring compliance through automated execution. 
 * ****Subscription and Membership Services:**** Access payments can be locked and released periodically, enabling automated subscription management without relying on centralized payment processors.
 * ****Supply Chain and Trade Finance:**** Payments can be held in a time-locked contract and released automatically after delivery deadlines or contractual obligations are fulfilled.
-* ****Delayed Administrative Actions:****
+* ****Delayed Administrative Actions:**** Critical smart contract functions,
 
   
 
