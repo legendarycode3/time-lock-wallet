@@ -120,7 +120,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Long-term Savings (HODLing):**** Acts as an enforced digital piggy bank to protect you from impulsive trading decisions.
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 * ****Token Vesting:**** Time-lock contracts are used to release tokens gradually to founders, team members, and advisors over a predefined period. This prevents immediate selling and encourages long-term commitment to the project.
-* ****Investor Lockups:****
+* ****Investor Lockups:**** Projects often lock tokens 
 * ****DAO Governance Timelocks:****
 
 ## Core Benefits Time Lock Smart Contracts
