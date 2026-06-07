@@ -121,7 +121,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Delayed Execution:**** Used in decentralized autonomous organizations (DAOs) to lock in governance votes, allowing community members time to review and respond to proposed changes.
 * ****Token Vesting:**** Time-lock contracts are used to release tokens gradually to founders, team members, and advisors over a predefined period. This prevents immediate selling and encourages long-term commitment to the project.
 * ****Investor Lockups:**** Projects often lock tokens allocated to early investors after fundraising events. This reduces the risk of large-scale token dumps and helps maintain market stability after launch.
-* ****DAO Governance Timelocks:**** Decentralized organizations use timelocks to delay the execution of approved governance proposals.
+* ****DAO Governance Timelocks:**** Decentralized organizations use timelocks to delay the execution of approved governance proposals. This gives community members time
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
