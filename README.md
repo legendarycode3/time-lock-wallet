@@ -127,7 +127,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Decentralized Savings Plans:**** Users can lock cryptocurrency for a fixed duration to encourage long-term saving. Funds remain inaccessible until the lock period expires.
 * ****Inheritance and Estate Planning:**** Digital assets can be programmed to transfer to designated beneficiaries after a certain period or event, enabling automated inheritance management.
 * ****Scheduled Payments and Payroll:**** Businesses can use time-lock contracts to automate salary payments, grants, or recurring disbursements that are released at predetermined intervals.
-* ****Staking and Yield Farming:**** Many blockchain protocols require users to lock their assets for a specific period to earn rewards. Longer
+* ****Staking and Yield Farming:**** Many blockchain protocols require users to lock their assets for a specific period to earn rewards. Longer lock periods often provide higher incentives.
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
