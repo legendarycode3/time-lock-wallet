@@ -133,6 +133,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Crowdfunding and Milestone-Based Funding:**** Raised funds can be locked and released only when project milestones are achieved or specific deadlines are reached, increasing accountability for project teams.
 * ****Liquidity Locking:**** Blockchain projects often lock liquidity pool tokens for a fixed period to demonstrate commitment and reduce concerns about liquidity withdrawal or "rug pulls."
 * ****Grants and Scholarship Distribution:**** Educational institutions, foundations, and organizations can schedule the release of funds in phases based on time periods or achievement of predefined milestones.
+* ****Regulatory and Compliance Requirements:****
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
