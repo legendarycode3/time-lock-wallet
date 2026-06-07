@@ -138,7 +138,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Supply Chain and Trade Finance:**** Payments can be held in a time-locked contract and released automatically after delivery deadlines or contractual obligations are fulfilled.
 * ****Delayed Administrative Actions:**** Critical smart contract functions, such as protocol upgrades or parameter changes, can be time-locked to provide users with advance notice before implementation.
 * ****Charity and Donation Management:**** Donated funds can be locked and released according to predefined schedules or project milestones, ensuring transparency in how funds are utilized.
-* ****Employee Incentive Programs:**** Companies can distribute bonuses,
+* ****Employee Incentive Programs:**** Companies can distribute bonuses, stock tokens, or rewards through time-lock contracts that release
 
   
 
