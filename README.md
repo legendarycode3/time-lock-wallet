@@ -131,6 +131,7 @@ They matter immensely in Web3 blockchain systems for several reasons:
 * ****Cross-Chain Atomic Swaps:**** Time-locks are a core component of Hashed Timelock Contracts (HTLCs), which enable trustless asset exchanges between different blockchains while ensuring funds are returned if conditions are not met.
 * ****Wallet Security and Recovery:**** High-value wallets can use timelocks to delay withdrawals or administrative actions. This creates a security buffer that allows suspicious transactions to be detected and stopped before execution.
 * ****Crowdfunding and Milestone-Based Funding:**** Raised funds can be locked and released only when project milestones are achieved or specific deadlines are reached, increasing accountability for project teams.
+* ****Liquidity Locking:****
 
 ## Core Benefits Time Lock Smart Contracts
 * ****Trustless Security:**** Operates entirely on code without relying on a third-party intermediary, escrow agent, or bank.
